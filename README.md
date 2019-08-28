@@ -1,6 +1,6 @@
 # Best practices based on FAIR and MoProSoft
 
-This best practice manual, based on the FAIR principles[1] and the MoProSoft[2,3] software development process model, is intended to show not only the principle or activity but also the tools, standards and templates used in software development projects.
+This best practice manual is based on the FAIR principles[1] and the MoProSoft[2,3] software development process model, it is intended to show not only the principle or the process but also the tools, standards and templates used in software development projects.
 
 
 References:
