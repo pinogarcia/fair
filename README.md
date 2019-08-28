@@ -1,1 +1,1 @@
-# fair
+# FAIR principles and RegulonDB
