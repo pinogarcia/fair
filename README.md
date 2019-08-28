@@ -6,5 +6,6 @@ This best practice manual, based on the FAIR principles and the MoProSoft[1,2] s
 References:
 
 1.- MoProsoft: http://e-processmexico.com/consultoria/moprosoft/
+
 2.- Conogasi-MoProsoft: http://conogasi.org/articulos/moprosoft-un-modelo-para-mejorar-la-calidad-del-software-en-mexico/
 
